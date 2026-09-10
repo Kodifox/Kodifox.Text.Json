@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Denomica.Text.Json", "Denomica.Text.Json\Denomica.Text.Json.csproj", "{4FE0EC0B-980B-4A7B-99DE-FB33C522DF3F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kodifox.Text.Json", "Kodifox.Text.Json\Kodifox.Text.Json.csproj", "{4FE0EC0B-980B-4A7B-99DE-FB33C522DF3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Denomica.Text.Json.Tests", "Denomica.Text.Json.Tests\Denomica.Text.Json.Tests.csproj", "{C296B80D-289A-43CD-9079-C6524FF08332}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kodifox.Text.Json.Tests", "Kodifox.Text.Json.Tests\Kodifox.Text.Json.Tests.csproj", "{C296B80D-289A-43CD-9079-C6524FF08332}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

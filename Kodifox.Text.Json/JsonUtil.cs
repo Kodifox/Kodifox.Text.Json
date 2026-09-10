@@ -6,7 +6,7 @@ using System.Text;
 using System.Text.Json;
 using System.Text.Json.Serialization;
 
-namespace Denomica.Text.Json
+namespace Kodifox.Text.Json
 {
     using JsonDictionary = Dictionary<string, object?>;
     using JsonList = List<object?>;

@@ -6,10 +6,10 @@ using System.Linq;
 using System.Text.Json;
 using System.Text.Json.Nodes;
 using System.Threading.Tasks;
-using JSON = Denomica.Text.Json;
+using JSON = Kodifox.Text.Json;
 using Newton = Newtonsoft.Json.Linq;
 
-namespace Denomica.Text.Json.Tests
+namespace Kodifox.Text.Json.Tests
 {
     using JsonDictionary = Dictionary<string, object?>;
     using JsonList = List<object?>;

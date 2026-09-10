@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Denomica.Text.Json.Tests
+namespace Kodifox.Text.Json.Tests
 {
 
     internal class Employee

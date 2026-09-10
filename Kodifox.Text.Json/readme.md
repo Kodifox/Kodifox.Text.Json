@@ -1,4 +1,4 @@
-﻿# Denomica.Text.Json
+﻿# Kodifox.Text.Json
 
 A .NET Standard 2.1 library that exposes extension functionality for types defined in [`System.Text.Json`](https://www.nuget.org/packages/System.Text.Json)
 
@@ -14,6 +14,10 @@ The library exposes functionality for:
 ## Improvements
 
 The main improvements in the different versions are listed below.
+
+### v2.0.0
+
+- Renamed the library from `Denomica.Text.Json` to `Kodifox.Text.Json`. This is a breaking change; update package references, namespaces, and project references when upgrading.
 
 ### v1.0.8
 
@@ -37,7 +41,7 @@ The main improvements in the different versions are listed below.
 
 ### v1.0.2
 
-- Fixed a serialization problem in cased when using the [`JsonUtil.CreateDictionary`](https://github.com/Denomica/Denomica.Text.Json/blob/main/Denomica.Text.Json/JsonUtil.cs) and [`JsonUtil.CreateList`](https://github.com/Denomica/Denomica.Text.Json/blob/main/Denomica.Text.Json/JsonUtil.cs) methods without specifying serialization options explicitly. The default in these cases should be to use the internally defined default serialization options which is now fixed in this version.
+- Fixed a serialization problem in cased when using the [`JsonUtil.CreateDictionary`](https://github.com/Kodifox/Kodifox.Text.Json/blob/main/Kodifox.Text.Json/JsonUtil.cs) and [`JsonUtil.CreateList`](https://github.com/Kodifox/Kodifox.Text.Json/blob/main/Kodifox.Text.Json/JsonUtil.cs) methods without specifying serialization options explicitly. The default in these cases should be to use the internally defined default serialization options which is now fixed in this version.
 
 ### v1.0.1
 

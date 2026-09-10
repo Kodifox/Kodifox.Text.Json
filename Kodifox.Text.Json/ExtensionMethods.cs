@@ -11,7 +11,7 @@ using newton = Newtonsoft.Json.Linq;
 
 
 
-namespace Denomica.Text.Json
+namespace Kodifox.Text.Json
 {
     using JsonDictionary = Dictionary<string, object?>;
     using JsonList = List<object?>;

@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Denomica.Text.Json\Denomica.Text.Json.csproj" />
+    <ProjectReference Include="..\Kodifox.Text.Json\Kodifox.Text.Json.csproj" />
   </ItemGroup>
 
   <ItemGroup>

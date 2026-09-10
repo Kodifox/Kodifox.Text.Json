@@ -17,7 +17,7 @@ The main improvements in the different versions are listed below.
 
 ### v2.0.0
 
-- Renamed the library from `Denomica.Text.Json` to `Kodifox.Text.Json`. This is a breaking change; update package references, namespaces, and project references when upgrading.
+- Renamed the library from `Denomica.Text.Json` to `Kodifox.Text.Json`. This is a breaking change; update package references, namespaces, and project references when upgrading. No other changes were made in this version.
 
 ### v1.0.8
 
